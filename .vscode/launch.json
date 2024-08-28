@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "JavaScript 디버그 터미널",
+            "request": "launch",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
